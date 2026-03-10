@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ICEY",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-03-10T13:37:45.919164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Icey",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/01_Icey_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everest [Prod. Yung Icey Beats]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/02_Everest_[Prod._Yung_Icey_Beats]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Left Wrist Icey (feat. Baby Grizzley)",
+      "artist": "Tee Grizzley feat. Baby Grizzley",
+      "has_synced": true,
+      "path": "select/03_Left_Wrist_Icey_(feat._Baby_Grizzley)_Tee_Grizzley_feat._Baby_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Left Wrist Icey (feat. Baby Grizzley)",
+      "artist": "Tee Grizzley",
+      "has_synced": false,
+      "path": "select/04_Left_Wrist_Icey_(feat._Baby_Grizzley)_Tee_Grizzley.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Icey",
+      "artist": "Drakeo the Ruler",
+      "has_synced": true,
+      "path": "select/05_Too_Icey_Drakeo_the_Ruler.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Too Icey",
+      "artist": "Drakeo the Ruler",
+      "has_synced": true,
+      "path": "select/06_Too_Icey_Drakeo_the_Ruler.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Icey",
+      "artist": "Young Jeezy feat. Gucci Mane",
+      "has_synced": false,
+      "path": "select/07_So_Icey_Young_Jeezy_feat._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Icey Goth La Flexicos",
+      "artist": "SpaceGhostPurrp feat. CHXPO & Sickboyrari",
+      "has_synced": false,
+      "path": "select/08_So_Icey_Goth_La_Flexicos_SpaceGhostPurrp_feat._CHXPO_&_Sickboyrari.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So Icey Goth La Flexico's",
+      "artist": "SpaceGhostPurrp",
+      "has_synced": false,
+      "path": "select/09_So_Icey_Goth_La_Flexico's_SpaceGhostPurrp.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Punk (DJ Icey Remix)",
+      "artist": "Ferry Corsten",
+      "has_synced": false,
+      "path": "select/10_Punk_(DJ_Icey_Remix)_Ferry_Corsten.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Punk (DJ Icey remix)",
+      "artist": "Corsten, Ferry",
+      "has_synced": false,
+      "path": "select/11_Punk_(DJ_Icey_remix)_Corsten,_Ferry.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Icey Goth La Flexicos (feat. Chxpo & Black Kray)",
+      "artist": "SpaceGhostPurrp",
+      "has_synced": false,
+      "path": "select/12_So_Icey_Goth_La_Flexicos_(feat._Chxpo_&_Black_Kray)_SpaceGhostPurrp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Left Wrist Icey",
+      "artist": "Tee Grizzley",
+      "has_synced": true,
+      "path": "select/13_Left_Wrist_Icey_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Left Wrist Icey",
+      "artist": "Tee Grizzley feat. Baby Grizzley",
+      "has_synced": true,
+      "path": "select/14_Left_Wrist_Icey_Tee_Grizzley_feat._Baby_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ashes to Ashes (Icey & Mystro mix)",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/15_Ashes_to_Ashes_(Icey_&_Mystro_mix)_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Icey",
+      "artist": "Żabson",
+      "has_synced": true,
+      "path": "select/16_Icey_Żabson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Icey",
+      "artist": "Melii",
+      "has_synced": true,
+      "path": "select/17_Icey_Melii.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Icey",
+      "artist": "K-Sour",
+      "has_synced": true,
+      "path": "select/18_Icey_K-Sour.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ICEY",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_ICEY_Jinmenusagi.txt"
+    }
+  ]
+}
